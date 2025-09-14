@@ -1,0 +1,50 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_chorus": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:popped_chorus_fruit"
+          }
+        ]
+      }
+    },
+    "has_diamond": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:diamond"
+          }
+        ]
+      }
+    },
+    "has_compass": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:compass"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_chorus",
+      "has_compass"
+    ],
+    [
+      "has_compass",
+      "has_diamond"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:way_compass"
+    ]
+  }
+}

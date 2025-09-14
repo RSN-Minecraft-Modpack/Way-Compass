@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "MDM",
+    "DCD",
+    "MDM"
+  ],
+  "key": {
+    "C": [
+      "minecraft:compass"
+    ],
+    "M": [
+      "minecraft:popped_chorus_fruit"
+    ],
+    "D": [
+      "minecraft:diamond"
+    ]
+  },
+  "result": {
+    "id": "minecraft:compass",
+    "components": {
+      "minecraft:custom_data": {
+        "related_lodestone": 0,
+        "is_tp_compass": true
+      },
+      "minecraft:item_model": "minecraft:way_compass",
+      "minecraft:max_stack_size": 1,
+      "minecraft:rarity": "rare",
+      "minecraft:item_name": "\"Way Compass\"",
+      "minecraft:lore": [
+        "\"Use on a lodestone\""
+      ]
+    }
+  }
+}

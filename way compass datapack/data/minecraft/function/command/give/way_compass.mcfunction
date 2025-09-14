@@ -1,0 +1,1 @@
+give @s compass[lore='[{"text":"Use on a lodestone","italic":false}]',item_name='[{"text":"Way Compass","italic":false}]',rarity=rare,max_stack_size=1,item_model="minecraft:way_compass",custom_data={"related_lodestone": 0,"is_tp_compass": true}]
