@@ -44,7 +44,7 @@
   ],
   "rewards": {
     "recipes": [
-      "minecraft:way_compass"
+      "way_compass:way_compass"
     ]
   }
 }

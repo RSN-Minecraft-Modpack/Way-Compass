@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/way_compass"
+    "layer0": "way_compass:item/binded_way_compass8"
   }
 }

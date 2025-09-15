@@ -24,7 +24,7 @@
         "related_lodestone": 0,
         "is_tp_compass": true
       },
-      "minecraft:item_model": "minecraft:way_compass",
+      "minecraft:item_model": "way_compass:way_compass",
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "rare",
       "minecraft:item_name": "\"Way Compass\"",

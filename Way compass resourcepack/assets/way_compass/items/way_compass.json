@@ -4,7 +4,7 @@
     "component": "minecraft:lodestone_tracker",
     "on_false": {
       "type": "minecraft:model",
-      "model": "minecraft:item/way_compass"
+      "model": "way_compass:item/way_compass"
     },
     "on_true": {
       "type": "minecraft:range_dispatch",
@@ -12,112 +12,112 @@
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/binded_way_compass8"
+            "model": "way_compass:item/binded_way_compass8"
           },
           "threshold": 0
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/binded_way_compass14"
+            "model": "way_compass:item/binded_way_compass14"
           },
           "threshold": 4
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/binded_way_compass0"
+            "model": "way_compass:item/binded_way_compass0"
           },
           "threshold": 8
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/binded_way_compass2"
+            "model": "way_compass:item/binded_way_compass2"
           },
           "threshold": 12
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/binded_way_compass1"
+            "model": "way_compass:item/binded_way_compass1"
           },
           "threshold": 10
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/binded_way_compass15"
+            "model": "way_compass:item/binded_way_compass15"
           },
           "threshold": 6
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/binded_way_compass3"
+            "model": "way_compass:item/binded_way_compass3"
           },
           "threshold": 12.66
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/binded_way_compass4"
+            "model": "way_compass:item/binded_way_compass4"
           },
           "threshold": 13.33
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/binded_way_compass5"
+            "model": "way_compass:item/binded_way_compass5"
           },
           "threshold": 14
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/binded_way_compass6"
+            "model": "way_compass:item/binded_way_compass6"
           },
           "threshold": 14.66
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/binded_way_compass7"
+            "model": "way_compass:item/binded_way_compass7"
           },
           "threshold": 15.33
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/binded_way_compass9"
+            "model": "way_compass:item/binded_way_compass9"
           },
           "threshold": 0.66
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/binded_way_compass10"
+            "model": "way_compass:item/binded_way_compass10"
           },
           "threshold": 1.33
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/binded_way_compass11"
+            "model": "way_compass:item/binded_way_compass11"
           },
           "threshold": 2
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/binded_way_compass12"
+            "model": "way_compass:item/binded_way_compass12"
           },
           "threshold": 2.66
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/binded_way_compass13"
+            "model": "way_compass:item/binded_way_compass13"
           },
           "threshold": 3.33
         }
