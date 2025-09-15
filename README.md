@@ -7,4 +7,4 @@ A minecraft datapack &amp; resource pack
  - Create your world, be sure that the datapack,  resourcepack was load, play and have fun
 
 ## Other
-🟢 Check the modrint project [here](https://modrinth.com/project/way-compass) fur a fully description.
+🟢 Check the modrint project [here](https://modrinth.com/project/way-compass) for a fully description.
