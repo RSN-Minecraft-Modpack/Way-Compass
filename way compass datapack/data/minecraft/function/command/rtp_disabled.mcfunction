@@ -1,0 +1,4 @@
+scoreboard players set now rtp_enabled 0
+
+execute if score now rtp_enabled = enabled rtp_disabled run tellraw @s {"text":"`/trigger rtp` is now disabled, `/function minecraft:command/rtp_enabled` to enabled.","color":"red"}
+execute if score now rtp_enabled = disabled rtp_disabled run tellraw @s {"text":"`/trigger rtp` was already disabled, `/function minecraft:command/rtp_enabled` to enabled.","color":"green"}
