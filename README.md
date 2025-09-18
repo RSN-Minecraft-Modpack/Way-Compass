@@ -2,9 +2,9 @@
 A minecraft datapack &amp; resource pack
 
 ## Installation
- - Submit `Way compass resourcepack` file in the `resourcepack` file of your instance
+ - Put `Way compass resourcepack` file in the `resourcepack` file of your instance
  - When your create your world add the `way compass datapack` in the datapack list
- - Create your world, be sure that the datapack,  resourcepack was load, play and have fun
+ - Create your world, be sure that the datapack and the resourcepack are load. Play and have fun
 
 ## Other
-🟢 Check the modrint project [here](https://modrinth.com/project/way-compass) for a fully description.
+🟢 Check the modrint project [here](https://modrinth.com/project/way-compass) for a full description.
