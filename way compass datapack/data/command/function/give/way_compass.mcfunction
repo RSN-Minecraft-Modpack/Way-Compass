@@ -1,0 +1,1 @@
+give @s compass[lore=['{"text":"Use on a lodestone","italic":false}'],item_name='[{"text":"Way Compass","italic":false}]',rarity=rare,max_stack_size=1,item_model="way_compass:way_compass"]
