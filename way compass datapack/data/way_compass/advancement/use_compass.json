@@ -1,0 +1,18 @@
+{
+  "criteria": {
+    "using_item": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "item": {
+          "items": "minecraft:compass",
+          "predicates": {
+            "minecraft:custom_data": "{is_tp_compass:true}"
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "way_compass:run"
+  }
+}
