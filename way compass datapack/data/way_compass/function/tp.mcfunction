@@ -1,0 +1,1 @@
+$execute if block $(x) $(y) $(z) minecraft:lodestone run tp @s $(x) $(y) $(z)

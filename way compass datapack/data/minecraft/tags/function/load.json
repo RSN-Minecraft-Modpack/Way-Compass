@@ -1,5 +1,6 @@
 {
     "values": [
-      "minecraft:load"
+      "minecraft:load",
+      "way_compass:load"
     ]
   }
