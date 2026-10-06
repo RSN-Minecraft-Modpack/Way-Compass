@@ -1,1 +1,1 @@
-advancement revoke @s only way_compass:use_compass
+advancement revoke @a only way_compass:use_compass
