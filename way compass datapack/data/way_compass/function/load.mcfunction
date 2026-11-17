@@ -10,5 +10,6 @@ scoreboard objectives add minute dummy
 scoreboard players set tick value 20
 scoreboard players set minute value 1200
 scoreboard players set seconde value 60
+scoreboard players set cooldown value 12000
 
 scoreboard objectives add chorus_cost dummy
