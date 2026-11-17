@@ -21,7 +21,7 @@
     "id": "minecraft:compass",
     "components": {
       "minecraft:custom_data": {
-        "related_lodestone": 0,
+        "related_lodestone": false,
         "is_tp_compass": true
       },
       "minecraft:item_model": "way_compass:way_compass",

@@ -6,7 +6,7 @@
         "item": {
           "items": "minecraft:compass",
           "predicates": {
-            "minecraft:custom_data": "{is_tp_compass:true}"
+            "minecraft:custom_data": "{is_tp_compass:true,related_lodestone: true}"
           }
         }
       }

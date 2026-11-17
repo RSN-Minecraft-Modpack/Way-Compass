@@ -1,7 +1,8 @@
 {
   "components": {
     "minecraft:custom_data": {
-      "related_lodestone": 1
+      "related_lodestone": true,
+      "is_tp_compass":true
     },
     "minecraft:consumable": {
       "consume_seconds": 1000,
