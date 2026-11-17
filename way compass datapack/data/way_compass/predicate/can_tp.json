@@ -1,0 +1,23 @@
+{
+  "condition": "minecraft:all_of",
+  "terms": [
+    {
+      "condition": "minecraft:entity_scores",
+      "entity": "this",
+      "scores": {
+        "way_compass_cd": {
+          "max": 1
+        }
+      }
+    },
+    {
+      "condition": "minecraft:entity_scores",
+      "entity": "this",
+      "scores": {
+        "chorus_cost": {
+          "min": 8
+        }
+      }
+    }
+  ]
+}
